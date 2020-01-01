@@ -3,7 +3,7 @@
 
 ### 1_LinReg_StochasticGradDescent
 
-_Lineal regression solving by normal equation and stochastic gradient descent algorithms._
+_Linear regression solving by normal equation and stochastic gradient descent algorithms._
 
 
 ______________________________________________________________________________________________________________________________
