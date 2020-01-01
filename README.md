@@ -15,7 +15,7 @@ _Some preprocessing data techniques in case of Logistic Regression:_
 - *Classes Balancing*
 - *Scaling*
 
-_L1 and L2 regularization_
+_L1 and L2 regularization for Logistic Regression_
 
 
 ______________________________________________________________________________________________________________________________
