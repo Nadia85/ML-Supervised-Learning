@@ -8,17 +8,20 @@ _Linear regression solving by normal equation and stochastic gradient descent al
 
 ### 2_Preprocessing_Log_Regr
 
-Some preprocessing data techniques in case of Logistic Regression:
-- Handling missing values
-- *Categorical features transformation
+_Some preprocessing data techniques in case of Logistic Regression:_
+- *Handling missing values*
+- *Categorical features transformation*
 - *Stratification*
-- *Classes Balancing
-- *Scaling
+- *Classes Balancing*
+- *Scaling*
+
+_L1 and L2 regularization_
 
 
 ______________________________________________________________________________________________________________________________
 
 - python notebook
-- scip
+- sklearn
+- pandas
 - numpy
 - matplotlib
