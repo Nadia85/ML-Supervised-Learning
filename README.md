@@ -1,4 +1,4 @@
-# ML-Supervised-Learning
+# Supervised Learning
 # Linear Models
 
 ### 1_LinReg_StochasticGradDescent
